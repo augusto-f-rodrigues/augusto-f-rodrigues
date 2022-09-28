@@ -1,5 +1,7 @@
 ### Olá! Me chamo Augusto Rodrigues! 👋
 
+Buscando a cada dia melhorar meus conhecimentos na área da tecnologia, visando ter um perfil Full Stack procuro estar em constante evolução tanto nas tecnologias de Front como de Back.
+
 <div align="center">
   <a href="https://github.com/augusto-f-rodrigues">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=augusto-f-rodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
