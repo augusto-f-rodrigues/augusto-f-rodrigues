@@ -1,6 +1,6 @@
 ### Olá! Me chamo Augusto Rodrigues! 👋
 
-Buscando a cada dia melhorar meus conhecimentos na área da tecnologia, visando ter um perfil Full Stack procuro estar em constante evolução tanto nas tecnologias de Front como de Back.
+Buscando a cada dia melhorar meus conhecimentos na área da tecnologia, visando ter um perfil Frontend procuro estar em constante evolução.
 
 <hr>
 
